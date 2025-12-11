@@ -1,3 +1,3 @@
 # teck-staff
 The staff website for teck
-https://teck-belgium.github.io/teck-staff/
+https://teck-bel.github.io/teck-staff/ 
